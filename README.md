@@ -1,3 +1,3 @@
 ## 📊 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseff907&layout=compact&theme=tokyonight&hide=roff,javascript&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseff907&layout=compact&theme=tokyonight&hide=roff,javascript,html,css&langs_count=10)
