@@ -68,40 +68,19 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,assembly&perline=8)](https://skillicons.dev)
 
 **Frameworks & Technologies**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=fastapi,flutter,linux,wordpress&perline=8)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Cloud](https://skillicons.dev/icons?i=docker,gcp,aws,nginx,git&perline=8)](https://skillicons.dev)
 
 **Developer Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-525252?style=for-the-badge&logo=gnu&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-6A1B9A?style=for-the-badge&logo=linux&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![MPLAB X](https://img.shields.io/badge/MPLAB_X-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=vscode,github,cmake,jira&perline=8)](https://skillicons.dev)
 
 ---
 
