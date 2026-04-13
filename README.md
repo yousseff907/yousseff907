@@ -25,8 +25,8 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-weld-55.vercel.app/api?username=yousseff907&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img src="https://github-readme-stats-eight-weld-55.vercel.app/api/top-langs/?username=yousseff907&layout=normal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=20&hide=javascript,html,makefile,css,php"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousseff907&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseff907&layout=normal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=20&hide=javascript,html,makefile"/>
 
 </div>
 
