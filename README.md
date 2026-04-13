@@ -110,13 +110,22 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+**Embedded & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
 ---
 
 ## Technologies at a Glance
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,fastapi,flutter,linux,wordpress,docker,gcp,aws,nginx,git,vscode,clion,pycharm,eclipse,jira&perline=11)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,mysql,fastapi,flutter,linux,wordpress,docker,gcp,aws,nginx,git,vscode,clion,pycharm,eclipse,jira,arduino&perline=12)](https://skillicons.dev)
+
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
 
 </div>
 
