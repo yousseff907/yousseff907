@@ -76,7 +76,7 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 **Frameworks & Technologies**
 
@@ -114,7 +114,6 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -124,7 +123,6 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,mysql,fastapi,flutter,linux,wordpress,docker,gcp,aws,nginx,git,vscode,clion,pycharm,eclipse,jira,arduino&perline=12)](https://skillicons.dev)
 
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
 ![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
 
 </div>
