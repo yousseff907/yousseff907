@@ -110,8 +110,6 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 - Cybersecurity Piscine — 42 Beirut `Oct 2025`
 - Mobile Development Piscine — 42 Beirut `Nov 2025`
 - ReactJS Workshop — 42 Beirut `Jul 2025`
-- Jira Project Management Workshop — CMA CGM `Jul 2025`
-- SPI Certified Personal Trainer · LASIP First Aid & CPR
 
 ---
 
