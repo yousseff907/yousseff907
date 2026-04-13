@@ -15,7 +15,7 @@
 
 ## About
 
-Systems programmer and computer engineering student with a focus on low-level C/C++ development, backend architecture, and cloud deployment. Building through 42 School's project-based curriculum while pursuing a CS degree at Beirut Arab University. I work across the full stack from writing HTTP servers in raw C++98 to deploying containerized production APIs on GCP.
+Systems programmer and computer engineering student with a focus on low-level C/C++ development, backend architecture, and cloud deployment. Building through 42 School's project-based curriculum while pursuing a Computer Engineering degree at Beirut Arab University. I work across the full stack from writing HTTP servers in raw C++98 to deploying containerized production APIs on GCP and AWS EC2.
 
 Currently at **Level 11+** in the 42 Core Curriculum.
 
