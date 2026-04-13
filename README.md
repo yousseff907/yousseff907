@@ -52,8 +52,6 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 </div>
 
-> To enable the snake, add a GitHub Actions workflow to your profile repo. See setup instructions [here](https://github.com/Platane/snk).
-
 ---
 
 ## Selected Projects
