@@ -19,6 +19,12 @@ Systems programmer and computer engineering student with a focus on low-level C/
 
 Currently at **Level 11+** in the 42 Core Curriculum.
 
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 ---
 
 ## GitHub Stats
@@ -121,7 +127,9 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,mysql,fastapi,flutter,linux,wordpress,docker,gcp,aws,nginx,git,github,vscode,clion,pycharm,eclipse,arduino)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,mysql,fastapi,flutter,linux,wordpress,docker)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=gcp,aws,nginx,git,github,vscode,clion,pycharm,eclipse,arduino)](https://skillicons.dev)
 
 ![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
 
