@@ -115,11 +115,19 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 **Project Management**
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**Design & Planning**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-1A1A2E?style=for-the-badge&logo=postgresql&logoColor=white)
+![Whimsical](https://img.shields.io/badge/Whimsical-6B4FBB?style=for-the-badge&logo=whimsical&logoColor=white)
 
 **Embedded & Hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
@@ -129,9 +137,12 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,mysql,fastapi,flutter,linux,wordpress,docker)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=gcp,aws,nginx,git,github,vscode,clion,pycharm,eclipse,arduino)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=gcp,aws,nginx,git,github,vscode,clion,pycharm,eclipse,arduino,figma,notion)](https://skillicons.dev)
 
 ![PIC16F877A](https://img.shields.io/badge/PIC16F877A-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-1A1A2E?style=for-the-badge&logo=postgresql&logoColor=white)
+![Whimsical](https://img.shields.io/badge/Whimsical-6B4FBB?style=for-the-badge&logo=whimsical&logoColor=white)
 
 </div>
 
