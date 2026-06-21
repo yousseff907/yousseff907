@@ -149,7 +149,8 @@ Currently at **Level 11+** in the 42 Core Curriculum.
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html,sql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart,html)](https://skillicons.dev)
+<img src="./sql-icon.svg" width="48" height="48"/>
 
 [![Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,fastapi,flutter,linux,wordpress)](https://skillicons.dev)
 
