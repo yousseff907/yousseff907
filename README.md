@@ -47,7 +47,7 @@ Currently at **Level 11** in the 42 Core Curriculum.
 
 <div align="center">
 
-[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yousseff907&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Youssef's github activity graph](https://github-readme-activity-graph-orpin-rho.vercel.app/graph?username=yousseff907&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
