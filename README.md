@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-itani-137587358/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.itani.11.11@gmail.com)
 [![42 Profile](https://img.shields.io/badge/42_Beirut-000000?style=for-the-badge&logo=42&logoColor=white)](https://github.com/yousseff907)
-[![EasyRecipe](https://img.shields.io/badge/easyrecipe.online-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://easyrecipe.online)
 
 </div>
 
