@@ -62,7 +62,7 @@ Currently at **Level 11** in the 42 Core Curriculum.
 
 | Project | Stack | Description |
 |---|---|---|
-| **[EasyRecipe](https://easyrecipe.online)** | Python, FastAPI, Docker, GCP, NGINX, SQLAlchemy, OpenAI Whisper, Gemini | AI-powered recipe extraction from social media cooking videos. Deployed on GCP with JWT auth, SSL, and containerized microservices. |
+| **[EasyRecipe](https://github.com/yousseff907/EasyRecipe)** | Python, FastAPI, Docker, GCP, NGINX, SQLAlchemy, OpenAI Whisper, Gemini | AI-powered recipe extraction from social media cooking videos. Deployed on GCP with JWT auth, SSL, and containerized microservices. |
 | **[Webserv](https://github.com/yousseff907/Webserv)** | C++98, HTTP/1.1, CGI, poll() | Fully functional HTTP/1.1 web server from scratch. Non-blocking event loop, GET/POST/DELETE, CGI execution (Python, PHP, Perl), file uploads. |
 | **[Inception](https://github.com/yousseff907/Inception)** | Docker, Docker Compose, NGINX, MariaDB, Redis, WordPress, AWS EC2 | Multi-container infrastructure with 8 microservices deployed on AWS EC2. SSL/TLS, reverse proxy, bridge networking. |
 
